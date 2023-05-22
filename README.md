@@ -5,6 +5,7 @@
 - 🌱 I’m Amol Patil
 - Git Project Profile -> https://github.com/djamol
 - Gits code, snippets Profile -> https://gist.github.com/djamol
+- stackoverflow Profile -> https://stackoverflow.com/users/16280454/amol
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
