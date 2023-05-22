@@ -3,6 +3,8 @@
 
 
 - 🌱 I’m Amol Patil
+- Git Project Profile -> https://github.com/djamol
+- Gits code, snippets Profile -> https://gist.github.com/djamol
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
